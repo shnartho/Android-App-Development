@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RestuarentApp</string>
+
+    <string-array name="ingredients">
+
+        <item>Pork Meat</item>
+        <item>Bread</item>
+        <item>Cheese</item>
+        <item>Sos</item>
+        <item>Olive</item>
+
+
+    </string-array>
+
+    <string-array name="ingredientsB">
+
+        <item>Chicken Meat</item>
+        <item>Bread</item>
+        <item>Cheese</item>
+        <item>Sos</item>
+        <item>Letus</item>
+
+
+    </string-array>
+</resources>

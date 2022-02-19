@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_5</string>
+    <string name="avatar">avatar</string>
+    <string name="rating">rating</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+</resources>
